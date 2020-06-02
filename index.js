@@ -61,7 +61,12 @@ io.sockets.on("connection", function(socket){
     socket.on("message", function(message){
         // for a real app, would be room-only (not broadcast)
         // 广播发送
-        socket.broadcast.emit('message', message);
+        // socket.broadcast.emit('message', message);
+        var to = message["to"];
+        // 转发message时根据其中的to, 来选择发送目标
+        logger.info("from:" + socket.id + " to:" + to, message);
+        log("from:" + socket.id + " to:" + to, message);
+        io.sockets.sockets[to].emit("message", message);
     });
 
     socket.on("create or join", function(room){
@@ -82,17 +87,16 @@ io.sockets.on("connection", function(socket){
             logger.info("Client ID " + socket.id + " created room " + room);
             log("Client ID " + socket.id + " created room " + room);
             socket.emit("created", room, socket.id);
-        } else if (1 === numClients){
-            logger.info("Client ID " + socket.id + " jioined room " + room);
-            log("Client ID " + socket.id + " jioined room " + room);
-            // 向房间内其他用户发送join
-            io.sockets.in(room).emit("join", room);
+        } else {
+            // 某人加入房间时, 向其他人发送此人的socketId
+            logger.info("Client ID " + socket.id + " joined room " + room);
+            log("Client ID " + socket.id + " joined room " + room);
+            // 向房间内其他用户发送join以及房间名和加入房间的用户的socket.id
+            io.sockets.in(room).emit("join", room, socket.id);
             socket.join(room);
             // 向加入房间的客户端发送"joined"
             socket.emit("joined", room, socket.id);
             io.sockets.in(room).emit("ready");
-        } else { // max two clients
-            socket.emit("full", room);
         }
     }); 
 

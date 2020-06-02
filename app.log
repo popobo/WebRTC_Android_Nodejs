@@ -50,3 +50,483 @@
 17:58:26 INFO - Received request to create or join roomOldPlace
 17:58:26 INFO - Room OldPlace now has 1 client(s)
 17:58:26 INFO - Client ID bdTtaghmW2_nMVDuAAAR jioined room OldPlace
+13:13:43 INFO - Received request to create or join roomOldPlace
+13:13:43 INFO - Room OldPlace now has 0 client(s)
+13:13:43 INFO - Client ID p2wTG8WjmOKtqu-zAAAS created room OldPlace
+13:15:00 INFO - Received request to create or join roomOldPlace
+13:15:00 INFO - Room OldPlace now has 0 client(s)
+13:15:00 INFO - Client ID gCWfdJo_zNcLxhQBAAAT created room OldPlace
+13:15:03 INFO - Received request to create or join roomOldPlace
+13:15:03 INFO - Room OldPlace now has 1 client(s)
+13:15:03 INFO - Client ID jGco9Vp9MQNaaC7kAAAU jioined room OldPlace
+13:21:08 INFO - received bye
+13:21:36 INFO - Received request to create or join roomOldPlace
+13:21:36 INFO - Room OldPlace now has 0 client(s)
+13:21:36 INFO - Client ID XivdpH35EMhOODVgAAAV created room OldPlace
+13:22:01 INFO - Received request to create or join roomOldPlace
+13:22:01 INFO - Room OldPlace now has 1 client(s)
+13:22:01 INFO - Client ID UkUnsF3X8gojuusfAAAW jioined room OldPlace
+13:22:03 INFO - Received request to create or join roomOldPlace
+13:22:03 INFO - Room OldPlace now has 0 client(s)
+13:22:03 INFO - Client ID YjldLWUbaA3xHUFoAAAX created room OldPlace
+13:22:08 INFO - Received request to create or join roomOldPlace
+13:22:08 INFO - Room OldPlace now has 1 client(s)
+13:22:08 INFO - Client ID xwvThryojz6zTB_JAAAY jioined room OldPlace
+13:25:07 INFO - received bye
+13:39:08 INFO - Received request to create or join roomOldPlace
+13:39:08 INFO - Room OldPlace now has 0 client(s)
+13:39:08 INFO - Client ID lW8pC4UQfFaHtphiAAAZ created room OldPlace
+13:39:28 INFO - Received request to create or join roomOldPlace
+13:39:28 INFO - Room OldPlace now has 1 client(s)
+13:39:28 INFO - Client ID JuRLcxA5rfJn4qkYAAAa jioined room OldPlace
+13:39:40 INFO - Received request to create or join roomOldPlace
+13:39:40 INFO - Room OldPlace now has 1 client(s)
+13:39:40 INFO - Client ID ZXCzqPw2ggy8Sy31AAAb jioined room OldPlace
+13:43:07 INFO - Received request to create or join roomOldPlace
+13:43:07 INFO - Room OldPlace now has 2 client(s)
+13:43:15 INFO - Received request to create or join roomOldPlace
+13:43:15 INFO - Room OldPlace now has 0 client(s)
+13:43:15 INFO - Client ID 4c38s5h25247nLRUAAAd created room OldPlace
+13:43:16 INFO - Received request to create or join roomOldPlace
+13:43:16 INFO - Room OldPlace now has 1 client(s)
+13:43:16 INFO - Client ID rEsOOSq3hkck2HLSAAAe jioined room OldPlace
+13:43:22 INFO - Received request to create or join roomOldPlace
+13:43:22 INFO - Room OldPlace now has 1 client(s)
+13:43:22 INFO - Client ID XLVOlRQ-xjLXjxoGAAAf jioined room OldPlace
+13:45:31 INFO - Received request to create or join roomOldPlace
+13:45:31 INFO - Room OldPlace now has 1 client(s)
+13:45:31 INFO - Client ID ojtHdTy0PX3li1ufAAAg jioined room OldPlace
+13:45:33 INFO - Received request to create or join roomOldPlace
+13:45:33 INFO - Room OldPlace now has 2 client(s)
+13:55:27 INFO - Received request to create or join roomOldPlace
+13:55:27 INFO - Room OldPlace now has 0 client(s)
+13:55:27 INFO - Client ID dv86pNP5Yw3xknpTAAAA created room OldPlace
+13:55:30 INFO - Received request to create or join roomOldPlace
+13:55:30 INFO - Room OldPlace now has 1 client(s)
+13:55:30 INFO - Client ID n8riMB_f_IBjpM32AAAB joined room OldPlace
+14:11:28 INFO - Received request to create or join roomOldPlace
+14:11:28 INFO - Room OldPlace now has 0 client(s)
+14:11:28 INFO - Client ID 1LdEZ96ko5DxLXz0AAAA created room OldPlace
+14:11:28 INFO - Received request to create or join roomOldPlace
+14:11:28 INFO - Room OldPlace now has 1 client(s)
+14:11:28 INFO - Client ID J7TW7OpJ-LuJCCuLAAAB joined room OldPlace
+14:17:38 INFO - Received request to create or join roomOldPlace
+14:17:38 INFO - Room OldPlace now has 0 client(s)
+14:17:38 INFO - Client ID t0Y7lxIqmQFTUXlgAAAB created room OldPlace
+14:17:55 INFO - Received request to create or join roomOldPlace
+14:17:55 INFO - Room OldPlace now has 1 client(s)
+14:17:55 INFO - Client ID Rm1JkMTDIRVwM0boAAAC joined room OldPlace
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'offer',
+  sdp: 'v=0\r\n' +
+    'o=- 3964747671827409217 2 IN IP4 127.0.0.1\r\n' +
+    's=-\r\n' +
+    't=0 0\r\n' +
+    'a=group:BUNDLE video\r\n' +
+    'a=msid-semantic: WMS mediaStream\r\n' +
+    'm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 124 125\r\n' +
+    'c=IN IP4 0.0.0.0\r\n' +
+    'a=rtcp:9 IN IP4 0.0.0.0\r\n' +
+    'a=ice-ufrag:RU3n\r\n' +
+    'a=ice-pwd:iUjWF2TtQeEOaNeW95K5A2hF\r\n' +
+    'a=ice-options:trickle renomination\r\n' +
+    'a=fingerprint:sha-256 29:44:3E:CF:30:36:19:A3:20:BB:C4:13:99:21:D2:03:9B:B7:6D:4F:6C:86:41:14:EA:CB:97:1C:EF:B1:B3:63\r\n' +
+    'a=setup:actpass\r\n' +
+    'a=mid:video\r\n' +
+    'a=extmap:14 urn:ietf:params:rtp-hdrext:toffset\r\n' +
+    'a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\n' +
+    'a=extmap:13 urn:3gpp:video-orientation\r\n' +
+    'a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\n' +
+    'a=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\n' +
+    'a=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\n' +
+    'a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\n' +
+    'a=extmap:8 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\n' +
+    'a=extmap:9 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\n' +
+    'a=sendrecv\r\n' +
+    'a=rtcp-mux\r\n' +
+    'a=rtcp-rsize\r\n' +
+    'a=rtpmap:96 VP8/90000\r\n' +
+    'a=rtcp-fb:96 goog-remb\r\n' +
+    'a=rtcp-fb:96 transport-cc\r\n' +
+    'a=rtcp-fb:96 ccm fir\r\n' +
+    'a=rtcp-fb:96 nack\r\n' +
+    'a=rtcp-fb:96 nack pli\r\n' +
+    'a=rtpmap:97 rtx/90000\r\n' +
+    'a=fmtp:97 apt=96\r\n' +
+    'a=rtpmap:98 VP9/90000\r\n' +
+    'a=rtcp-fb:98 goog-remb\r\n' +
+    'a=rtcp-fb:98 transport-cc\r\n' +
+    'a=rtcp-fb:98 ccm fir\r\n' +
+    'a=rtcp-fb:98 nack\r\n' +
+    'a=rtcp-fb:98 nack pli\r\n' +
+    'a=rtpmap:99 rtx/90000\r\n' +
+    'a=fmtp:99 apt=98\r\n' +
+    'a=rtpmap:100 H264/90000\r\n' +
+    'a=rtcp-fb:100 goog-remb\r\n' +
+    'a=rtcp-fb:100 transport-cc\r\n' +
+    'a=rtcp-fb:100 ccm fir\r\n' +
+    'a=rtcp-fb:100 nack\r\n' +
+    'a=rtcp-fb:100 nack pli\r\n' +
+    'a=fmtp:100 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\n' +
+    'a=rtpmap:101 rtx/90000\r\n' +
+    'a=fmtp:101 apt=100\r\n' +
+    'a=rtpmap:127 red/90000\r\n' +
+    'a=rtpmap:124 rtx/90000\r\n' +
+    'a=fmtp:124 apt=127\r\n' +
+    'a=rtpmap:125 ulpfec/90000\r\n' +
+    'a=ssrc-group:FID 1801646572 96183823\r\n' +
+    'a=ssrc:1801646572 cname:e859CY3Di1dwc+or\r\n' +
+    'a=ssrc:1801646572 msid:mediaStream 100\r\n' +
+    'a=ssrc:1801646572 mslabel:mediaStream\r\n' +
+    'a=ssrc:1801646572 label:100\r\n' +
+    'a=ssrc:96183823 cname:e859CY3Di1dwc+or\r\n' +
+    'a=ssrc:96183823 msid:mediaStream 100\r\n' +
+    'a=ssrc:96183823 mslabel:mediaStream\r\n' +
+    'a=ssrc:96183823 label:100\r\n',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:2952211958 1 udp 2122262783 240e:390:c81:e90:410c:5f60:b910:3f3 44550 typ host generation 0 ufrag RU3n network-id 5 network-cost 10',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1493399139 1 udp 2122194687 192.168.1.12 49153 typ host generation 0 ufrag RU3n network-id 4 network-cost 10',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:559267639 1 udp 2122071295 ::1 42600 typ host generation 0 ufrag RU3n network-id 2',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1510613869 1 udp 2121998079 127.0.0.1 42904 typ host generation 0 ufrag RU3n network-id 1',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:842163049 1 udp 1685987071 61.153.123.158 49153 typ srflx raddr 192.168.1.12 rport 49153 generation 0 ufrag RU3n network-id 4 network-cost 10',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'answer',
+  sdp: 'v=0\r\n' +
+    'o=- 4477962033514242425 2 IN IP4 127.0.0.1\r\n' +
+    's=-\r\n' +
+    't=0 0\r\n' +
+    'a=group:BUNDLE video\r\n' +
+    'a=msid-semantic: WMS mediaStream\r\n' +
+    'm=video 9 UDP/TLS/RTP/SAVPF 96 97 98 99 100 101 127 124 125\r\n' +
+    'c=IN IP4 0.0.0.0\r\n' +
+    'a=rtcp:9 IN IP4 0.0.0.0\r\n' +
+    'a=ice-ufrag:eqJD\r\n' +
+    'a=ice-pwd:cy/wdqRTU8ZPN75ehqsb5+bX\r\n' +
+    'a=ice-options:trickle renomination\r\n' +
+    'a=fingerprint:sha-256 D9:FA:35:BD:B6:4A:FB:4F:CF:E0:0A:ED:76:A9:76:78:60:6E:80:01:26:81:08:A7:E5:B8:95:BB:7B:61:FC:71\r\n' +
+    'a=setup:active\r\n' +
+    'a=mid:video\r\n' +
+    'a=extmap:14 urn:ietf:params:rtp-hdrext:toffset\r\n' +
+    'a=extmap:2 http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time\r\n' +
+    'a=extmap:13 urn:3gpp:video-orientation\r\n' +
+    'a=extmap:3 http://www.ietf.org/id/draft-holmer-rmcat-transport-wide-cc-extensions-01\r\n' +
+    'a=extmap:5 http://www.webrtc.org/experiments/rtp-hdrext/playout-delay\r\n' +
+    'a=extmap:6 http://www.webrtc.org/experiments/rtp-hdrext/video-content-type\r\n' +
+    'a=extmap:7 http://www.webrtc.org/experiments/rtp-hdrext/video-timing\r\n' +
+    'a=extmap:8 http://tools.ietf.org/html/draft-ietf-avtext-framemarking-07\r\n' +
+    'a=extmap:9 http://www.webrtc.org/experiments/rtp-hdrext/color-space\r\n' +
+    'a=sendrecv\r\n' +
+    'a=rtcp-mux\r\n' +
+    'a=rtcp-rsize\r\n' +
+    'a=rtpmap:96 VP8/90000\r\n' +
+    'a=rtcp-fb:96 goog-remb\r\n' +
+    'a=rtcp-fb:96 transport-cc\r\n' +
+    'a=rtcp-fb:96 ccm fir\r\n' +
+    'a=rtcp-fb:96 nack\r\n' +
+    'a=rtcp-fb:96 nack pli\r\n' +
+    'a=rtpmap:97 rtx/90000\r\n' +
+    'a=fmtp:97 apt=96\r\n' +
+    'a=rtpmap:98 VP9/90000\r\n' +
+    'a=rtcp-fb:98 goog-remb\r\n' +
+    'a=rtcp-fb:98 transport-cc\r\n' +
+    'a=rtcp-fb:98 ccm fir\r\n' +
+    'a=rtcp-fb:98 nack\r\n' +
+    'a=rtcp-fb:98 nack pli\r\n' +
+    'a=rtpmap:99 rtx/90000\r\n' +
+    'a=fmtp:99 apt=98\r\n' +
+    'a=rtpmap:100 H264/90000\r\n' +
+    'a=rtcp-fb:100 goog-remb\r\n' +
+    'a=rtcp-fb:100 transport-cc\r\n' +
+    'a=rtcp-fb:100 ccm fir\r\n' +
+    'a=rtcp-fb:100 nack\r\n' +
+    'a=rtcp-fb:100 nack pli\r\n' +
+    'a=fmtp:100 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e01f\r\n' +
+    'a=rtpmap:101 rtx/90000\r\n' +
+    'a=fmtp:101 apt=100\r\n' +
+    'a=rtpmap:127 red/90000\r\n' +
+    'a=rtpmap:124 rtx/90000\r\n' +
+    'a=fmtp:124 apt=127\r\n' +
+    'a=rtpmap:125 ulpfec/90000\r\n' +
+    'a=ssrc-group:FID 3490885447 3043548817\r\n' +
+    'a=ssrc:3490885447 cname:U1iObfSa4UGKi6dk\r\n' +
+    'a=ssrc:3490885447 msid:mediaStream 100\r\n' +
+    'a=ssrc:3490885447 mslabel:mediaStream\r\n' +
+    'a=ssrc:3490885447 label:100\r\n' +
+    'a=ssrc:3043548817 cname:U1iObfSa4UGKi6dk\r\n' +
+    'a=ssrc:3043548817 msid:mediaStream 100\r\n' +
+    'a=ssrc:3043548817 mslabel:mediaStream\r\n' +
+    'a=ssrc:3043548817 label:100\r\n',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:3763255116 1 udp 41819903 122.51.106.149 64573 typ relay raddr 61.153.123.158 rport 49153 generation 0 ufrag RU3n network-id 4 network-cost 10',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:3331448523 1 udp 2122262783 240e:390:c81:e90:162:616f:d9e8:a9d5 49491 typ host generation 0 ufrag eqJD network-id 8 network-cost 10',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1178812653 1 udp 2122194687 192.168.1.9 47280 typ host generation 0 ufrag eqJD network-id 7 network-cost 10',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:559267639 1 udp 2121874687 ::1 46243 typ host generation 0 ufrag eqJD network-id 2',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1510613869 1 udp 2121801471 127.0.0.1 46434 typ host generation 0 ufrag eqJD network-id 1',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:842163049 1 udp 1685987071 61.153.123.158 47280 typ srflx raddr 192.168.1.9 rport 47280 generation 0 ufrag eqJD network-id 7 network-cost 10',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:3806305100 1 tcp 1518151935 2409:8805:86c6:cedd:2366:c016:1df7:295b 9 typ host tcptype active generation 0 ufrag RU3n network-id 3 network-cost 900',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:3763255116 1 udp 41819903 122.51.106.149 54130 typ relay raddr 61.153.123.158 rport 47280 generation 0 ufrag eqJD network-id 7 network-cost 10',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1876313031 1 tcp 1518091519 ::1 40750 typ host tcptype passive generation 0 ufrag RU3n network-id 2',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:t0Y7lxIqmQFTUXlgAAAB to:Rm1JkMTDIRVwM0boAAAC {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:344579997 1 tcp 1518018303 127.0.0.1 46301 typ host tcptype passive generation 0 ufrag RU3n network-id 1',
+  from: 't0Y7lxIqmQFTUXlgAAAB',
+  to: 'Rm1JkMTDIRVwM0boAAAC'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:4217592290 1 tcp 1518151935 2408:8540:35:a367:fedb:2809:b9f2:bb27 9 typ host tcptype active generation 0 ufrag eqJD network-id 3 network-cost 900',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:2558923349 1 tcp 1518086399 240e:6b:8162:686c:cc55:fc97:f8d:5c22 9 typ host tcptype active generation 0 ufrag eqJD network-id 4 network-cost 900',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:425918877 1 tcp 1518020863 2408:84ed:68:a504:6553:661d:1797:ae24 9 typ host tcptype active generation 0 ufrag eqJD network-id 6 network-cost 900',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:27888053 1 tcp 1517952767 10.88.23.239 9 typ host tcptype active generation 0 ufrag eqJD network-id 5 network-cost 900',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:1876313031 1 tcp 1517894911 ::1 46001 typ host tcptype passive generation 0 ufrag eqJD network-id 2',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:17:55 INFO - from:Rm1JkMTDIRVwM0boAAAC to:t0Y7lxIqmQFTUXlgAAAB {
+  type: 'candidate',
+  label: 0,
+  id: 'video',
+  candidate: 'candidate:344579997 1 tcp 1517821695 127.0.0.1 39349 typ host tcptype passive generation 0 ufrag eqJD network-id 1',
+  from: 'Rm1JkMTDIRVwM0boAAAC',
+  to: 't0Y7lxIqmQFTUXlgAAAB'
+}
+14:19:09 INFO - received bye
+20:40:21 INFO - Received request to create or join roomOldPlace
+20:40:21 INFO - Room OldPlace now has 0 client(s)
+20:40:21 INFO - Client ID M_9G7wgMBFUa75g2AAAD created room OldPlace
+20:40:28 INFO - received bye
+21:38:53 INFO - Received request to create or join roomOldPlace
+21:38:53 INFO - Room OldPlace now has 0 client(s)
+21:38:53 INFO - Client ID 70lwvU2LEDSghtAwAAAE created room OldPlace
+22:24:42 INFO - Received request to create or join roomOldPlace
+22:24:42 INFO - Room OldPlace now has 0 client(s)
+22:24:42 INFO - Client ID 2wELrJNR9iFe41X6AAAF created room OldPlace
+22:24:47 INFO - received bye
+23:54:09 INFO - Received request to create or join roomOldPlace
+23:54:09 INFO - Room OldPlace now has 0 client(s)
+23:54:09 INFO - Client ID PqDnEKiY5ljcfh1nAAAG created room OldPlace
+23:59:23 INFO - Received request to create or join roomOldPlace
+23:59:23 INFO - Room OldPlace now has 0 client(s)
+23:59:23 INFO - Client ID t3ck6g77oLQxqwPrAAAJ created room OldPlace
+23:59:29 INFO - received bye
+14:52:09 INFO - Received request to create or join roomOldPlace
+14:52:09 INFO - Room OldPlace now has 0 client(s)
+14:52:09 INFO - Client ID SmkS0ldxtlfCl62XAAAK created room OldPlace
+02:04:13 INFO - Received request to create or join roomOldPlace
+02:04:13 INFO - Room OldPlace now has 0 client(s)
+02:04:13 INFO - Client ID xkYkk6KBrxLb48YDAAAL created room OldPlace
+02:06:54 INFO - Received request to create or join roomOldPlace
+02:06:54 INFO - Room OldPlace now has 0 client(s)
+02:06:54 INFO - Client ID 9K20wdrHCBCDs0YMAAAM created room OldPlace
+02:07:09 INFO - Received request to create or join roomOldPlace
+02:07:09 INFO - Room OldPlace now has 0 client(s)
+02:07:09 INFO - Client ID 8Z8cF22NWD3KHyRFAAAN created room OldPlace
+02:07:14 INFO - received bye
+02:10:34 INFO - Received request to create or join roomOldPlace
+02:10:34 INFO - Room OldPlace now has 0 client(s)
+02:10:34 INFO - Client ID b9Cqu_AyOEGsNIITAAAO created room OldPlace
+02:10:38 INFO - received bye
+02:43:32 INFO - Received request to create or join roomOldPlace
+02:43:32 INFO - Room OldPlace now has 0 client(s)
+02:43:32 INFO - Client ID MELR1jVDtsKbaaBeAAAP created room OldPlace
+02:44:09 INFO - Received request to create or join roomOldPlace
+02:44:09 INFO - Room OldPlace now has 0 client(s)
+02:44:09 INFO - Client ID 3OfSvcRh350736jiAAAQ created room OldPlace
+02:46:06 INFO - Received request to create or join roomOldPlace
+02:46:06 INFO - Room OldPlace now has 0 client(s)
+02:46:06 INFO - Client ID 1kV-3W4s9N5qaZ8DAAAR created room OldPlace
+02:53:31 INFO - Received request to create or join roomOldPlace
+02:53:31 INFO - Room OldPlace now has 0 client(s)
+02:53:31 INFO - Client ID 8CevHvB477G4iuMvAAAS created room OldPlace
+13:00:44 INFO - Received request to create or join roomOldPlace
+13:00:44 INFO - Room OldPlace now has 0 client(s)
+13:00:44 INFO - Client ID 4agevWrVs5drLuDwAAAT created room OldPlace
+13:01:09 INFO - received bye
+20:34:05 INFO - Received request to create or join roomOldPlace
+20:34:05 INFO - Room OldPlace now has 0 client(s)
+20:34:05 INFO - Client ID vccDPAMIBXGjIL9qAAAU created room OldPlace
+20:34:08 INFO - received bye
+22:45:03 INFO - Received request to create or join roomOldPlace
+22:45:03 INFO - Room OldPlace now has 0 client(s)
+22:45:03 INFO - Client ID vvQ6VgvD3PHzP2SiAAAV created room OldPlace
+22:45:21 INFO - received bye
+21:16:31 INFO - Received request to create or join roomOldPlace
+21:16:31 INFO - Room OldPlace now has 0 client(s)
+21:16:31 INFO - Client ID GNyRhvdQnc-UYrYmAAAW created room OldPlace
+21:16:38 INFO - received bye
+15:31:38 INFO - Received request to create or join roomOldPlace
+15:31:38 INFO - Room OldPlace now has 0 client(s)
+15:31:38 INFO - Client ID hmYup_iruqfSjLeKAAAX created room OldPlace
+15:33:09 INFO - Received request to create or join roomOldPlace
+15:33:09 INFO - Room OldPlace now has 0 client(s)
+15:33:09 INFO - Client ID 9UclQzj802GJ5c8nAAAY created room OldPlace
+15:35:21 INFO - Received request to create or join roomOldPlace
+15:35:21 INFO - Room OldPlace now has 0 client(s)
+15:35:21 INFO - Client ID MuT6CV0Kq0heAiypAAAZ created room OldPlace
+15:38:45 INFO - received bye
+20:47:03 INFO - Received request to create or join roomOldPlace
+20:47:03 INFO - Room OldPlace now has 0 client(s)
+20:47:03 INFO - Client ID dZ9HBDHmodC3fUTbAAAa created room OldPlace
+23:11:14 INFO - Received request to create or join roomOldPlace
+23:11:14 INFO - Room OldPlace now has 0 client(s)
+23:11:14 INFO - Client ID 0SeMWlcW5q9cD3J5AAAb created room OldPlace
+18:50:46 INFO - Received request to create or join roomOldPlace
+18:50:46 INFO - Room OldPlace now has 0 client(s)
+18:50:46 INFO - Client ID Caj7ENZMT1F2lMcNAAAc created room OldPlace
+18:50:49 INFO - received bye
+16:55:18 INFO - Received request to create or join roomOldPlace
+16:55:18 INFO - Room OldPlace now has 0 client(s)
+16:55:18 INFO - Client ID kv0BkjQgPUmAjqDPAAAd created room OldPlace
+16:55:21 INFO - received bye
+21:39:56 INFO - Received request to create or join roomOldPlace
+21:39:56 INFO - Room OldPlace now has 0 client(s)
+21:39:56 INFO - Client ID NZqtvroX_-n7TBjEAAAe created room OldPlace
+21:41:21 INFO - received bye
+22:01:40 INFO - Received request to create or join roomOldPlace
+22:01:40 INFO - Room OldPlace now has 0 client(s)
+22:01:40 INFO - Client ID gY9WGFJbkzyHpenmAAAf created room OldPlace
+22:01:45 INFO - received bye
+17:57:19 INFO - Received request to create or join roomOldPlace
+17:57:19 INFO - Room OldPlace now has 0 client(s)
+17:57:19 INFO - Client ID sXxiXse20EqU7K66AAAg created room OldPlace
+17:57:20 INFO - received bye
+16:49:55 INFO - Received request to create or join roomOldPlace
+16:49:55 INFO - Room OldPlace now has 0 client(s)
+16:49:55 INFO - Client ID 3CNm6CkcApsiSWTPAAAh created room OldPlace
+23:20:17 INFO - Received request to create or join roomOldPlace
+23:20:17 INFO - Room OldPlace now has 0 client(s)
+23:20:17 INFO - Client ID PGVmxy-kb0XoE9iWAAAi created room OldPlace
